@@ -2,7 +2,7 @@
 # Uber Fare Data Analysis Project
 ### 🔍 Course: INSY 8413 - Introduction to Big Data Analytics  
 *Instructor:* Eric Maniraguha  
-*Student:* Ruhanika Alex (26627)  
+*Student:* Nkuranga james (26285)  
 *Date:* July 2025
 
 ## Overview
